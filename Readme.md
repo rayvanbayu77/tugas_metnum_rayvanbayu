@@ -1,11 +1,12 @@
-# Panduan Instalasi
+# Cara menjalankan 
 
 Repository ini membutuhkan beberapa library Python untuk dijalankan, yaitu **NumPy** dan **Pandas**.  
 Ikuti langkah-langkah berikut untuk instalasi:
 
-## 1. Persiapan
 Pastikan Anda sudah menginstal **Python 3.8+** dan **pip**.  
-Cek versi Python dengan perintah:
+
+Kemudian install numpy dan pandas
+pip install numpy pandas
 
 ```bash
 python --version
