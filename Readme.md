@@ -6,7 +6,6 @@ Ikuti langkah-langkah berikut untuk instalasi:
 Pastikan Anda sudah menginstal **Python 3.8+** dan **pip**.  
 
 Kemudian install numpy dan pandas
-pip install numpy pandas
 
 ```bash
-python --version
+pip install numpy pandas
